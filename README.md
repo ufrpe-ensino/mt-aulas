@@ -1,5 +1,5 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ufrpe-ensino/curso-mineracao-textos/master)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ufrpe-ensino/curso-mineracao-textos/blob/master/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ufrpe-ensino/mt-aulas/master)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ufrpe-ensino/mt-aulas/blob/master/)
 
 # Introdução a Mineração de Textos (Cesar School)
 Material de apoio para a disciplina de Mineração de Textos - MT.
@@ -15,7 +15,6 @@ Fornecer aos alunos os conhecimentos básicos dos principais tópicos e tarefas 
 ## Material de apoio
 - [Introdução a Python](https://github.com/ufrpe-aulas/ic-aulas)
 - [Google Colab](https://colab.research.google.com/)
-- [Microsoft Azure Notebooks](https://notebooks.azure.com/)
 
 ## FAQ
 ### Por que Python?
