@@ -1,7 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ufrpe-ensino/mt-aulas/master)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ufrpe-ensino/mt-aulas/blob/master/)
 
-# Introdução a Mineração de Textos (Cesar School)
+# Introdução a Mineração de Textos
 Material de apoio para a disciplina de Mineração de Textos - MT.
 
 ## Objetivos do Curso
